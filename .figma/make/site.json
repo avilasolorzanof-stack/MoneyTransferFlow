@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly manage money transfers with a user-friendly interface that guides users through details entry, review, and simulated processing.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
